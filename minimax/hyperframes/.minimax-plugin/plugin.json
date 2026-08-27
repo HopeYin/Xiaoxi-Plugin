@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "name": "hyperframes",
+  "displayName": "HyperFrames by HeyGen",
+  "version": "0.1.2",
+  "description": "Write HTML, render video. Compositions, GSAP animations, captions, voiceovers, audio-reactive visuals, and website-to-video capture for HyperFrames.",
+  "author": "HeyGen",
+  "icon": "icon.png",
+  "category": "Studio",
+  "exampleQueries": [
+    "Turn this website into a 20-second product promo",
+    "Create an animated title card with kinetic type",
+    "Add synced captions to this voiceover"
+  ],
+  "apps": [],
+  "mcpServers": [],
+  "skills": [
+    "skills/hyperframes/SKILL.md",
+    "skills/hyperframes-cli/SKILL.md",
+    "skills/hyperframes-registry/SKILL.md",
+    "skills/gsap/SKILL.md",
+    "skills/website-to-hyperframes/SKILL.md"
+  ]
+}

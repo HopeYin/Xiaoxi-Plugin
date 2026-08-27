@@ -11,6 +11,15 @@
       "path": "minimax/didacli",
       "version": "1.0.0",
       "author": "Hope Yin"
+    },
+    {
+      "name": "hyperframes",
+      "displayName": "HyperFrames by HeyGen",
+      "description": "Write HTML, render video. 支持视频合成、GSAP 动画、字幕、配音、音频可视化与网站转视频。",
+      "agent": "minimax",
+      "path": "minimax/hyperframes",
+      "version": "0.1.2",
+      "author": "HeyGen"
     }
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/1.0.0/schema.json",
+  "name": "hyperframes",
+  "version": "0.1.2",
+  "description": "Write HTML, render video. Compositions, GSAP animations, captions, voiceovers, audio-reactive visuals, and website-to-video capture for HyperFrames.",
+  "author": "HeyGen",
+  "license": "Apache-2.0",
+  "keywords": ["video", "hyperframes", "gsap", "animation", "captions"]
+}
