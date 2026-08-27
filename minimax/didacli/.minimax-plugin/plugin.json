@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "name": "didacli",
+  "displayName": "滴答清单",
+  "version": "1.0.0",
+  "description": "滴答清单插件：教 AI Agent 使用 dida-cli 命令行管理任务、清单、标签、习惯、专注记录与倒数日。",
+  "author": "Hope Yin",
+  "icon": "icon.png",
+  "category": "Productivity",
+  "exampleQueries": [
+    "用滴答清单帮我创建一个任务",
+    "列出我的滴答清单和未完成任务",
+    "帮我登录滴答清单账号",
+    "给滴答清单任务设置截止时间和提醒"
+  ],
+  "apps": [],
+  "mcpServers": [],
+  "skills": ["skills/didacli/SKILL.md"]
+}

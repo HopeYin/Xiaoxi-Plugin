@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/1.0.0/schema.json",
+  "name": "didacli",
+  "version": "1.0.0",
+  "description": "滴答清单插件：教 AI Agent 使用 dida-cli 命令行管理任务、清单、标签、习惯、专注记录与倒数日。",
+  "author": "Hope Yin",
+  "license": "MIT",
+  "keywords": ["productivity", "dida", "todo", "task-management"]
+}

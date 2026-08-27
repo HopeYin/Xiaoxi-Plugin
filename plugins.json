@@ -1,0 +1,16 @@
+{
+  "name": "Xiaoxi Plugin",
+  "description": "曦曦自用的 AI Agent 插件管理仓库",
+  "agents": ["minimax", "kimi"],
+  "plugins": [
+    {
+      "name": "didacli",
+      "displayName": "滴答清单",
+      "description": "教 AI Agent 使用 dida-cli 管理滴答清单任务、清单、标签、习惯、专注记录与倒数日。",
+      "agent": "minimax",
+      "path": "minimax/didacli",
+      "version": "1.0.0",
+      "author": "Hope Yin"
+    }
+  ]
+}
